@@ -1,0 +1,26 @@
+Ranya B R
+Artificial Intelligence & Machine Learning Student
+
+Contact
+Email: ranya.2ram@gmail.com
+GitHub: https://github.com/Ranyaa-11
+LinkedIn: https://www.linkedin.com/in/ranya-b-r-013b84316/
+
+Education
+Bachelor of Engineering, Artificial Intelligence & Machine Learning
+Shri Madhwa Vadiraja Institute of Technology & Management (SMVITM), Bantakal
+2023 - 2027 | SGPA: 8.8
+
+Pre-University (Karnataka Board) | Score: 88%
+Secondary School (CBSE) | Percentage: 79%
+
+Experience
+Python Intern, CodSoft | Jan 2026 - Feb 2026
+Developed Python applications including a To-Do List, Password Generator, and Contact Book.
+
+Skills
+Python, Java, C, JavaScript, HTML, CSS, Flask, FastAPI, Scikit-learn, NumPy, Pandas, Matplotlib, Power BI, Tableau, Excel, SQL, MongoDB, Git, GitHub, Flutter
+
+Projects
+AaryaSetu - Donation coordination platform with role-based dashboards and donation tracking.
+Movie Search App - Movie discovery app using the OMDb API.
